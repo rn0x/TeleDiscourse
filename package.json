@@ -1,0 +1,28 @@
+{
+  "name": "telediscourse",
+  "version": "1.0.0",
+  "description": "TeleDiscourse | bridge between discourse and telegram",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "telegraf",
+    "telegram",
+    "discourse",
+    "bridge",
+    "nodejs",
+    "api",
+    "bot"
+  ],
+  "author": "rn0x",
+  "license": "agpl-3.0",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "fs-extra": "^11.1.0",
+    "moment-hijri": "^2.1.2",
+    "node-fetch": "^3.3.0",
+    "telegraf": "^4.11.2"
+  }
+}
