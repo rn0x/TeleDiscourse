@@ -25,14 +25,14 @@
 
 |  الأمر  | صورة|
 |:--------------|-----------------:|
-|start | ![TeleDiscourse](/.github/1.jpg) |
-|get_latest_posts | ![TeleDiscourse](/.github/2.jpg) |
-|getCategories | ![TeleDiscourse](/.github/3.jpg) |
-|CreatePosts | ![TeleDiscourse](/.github/4.jpg) |
-|sendComment | ![TeleDiscourse](/.github/5.jpg) |
-|sendMessagePrivate | ![TeleDiscourse](/.github/6.jpg) |
-|discourse | ![TeleDiscourse](/.github/7.jpg) |
-|activation | ![TeleDiscourse](/.github/8.jpg) |
+|start | ![TeleDiscourse](/README/1.jpg) |
+|get_latest_posts | ![TeleDiscourse](/README/2.jpg) |
+|getCategories | ![TeleDiscourse](/README/3.jpg) |
+|CreatePosts | ![TeleDiscourse](/README/4.jpg) |
+|sendComment | ![TeleDiscourse](/README/5.jpg) |
+|sendMessagePrivate | ![TeleDiscourse](/README/6.jpg) |
+|discourse | ![TeleDiscourse](/README/7.jpg) |
+|activation | ![TeleDiscourse](/README/8.jpg) |
 
 <br>
 
